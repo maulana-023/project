@@ -24,3 +24,7 @@ Pada lab 1 pertemuan ke 6, Saya di beri tugas oleh Dosen  mempelajari Operator A
 
 ![Picture - New](pict/pict-2.png)
 
+ > Hasil dari source code terseut seperti gambar di bawah ini:
+
+![picture -new](pict/pict-3.png)
+
