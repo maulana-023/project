@@ -57,3 +57,24 @@ Pada lab 1 pertemuan ke 6, Saya di beri tugas oleh Dosen  mempelajari Operator A
 >Hasil dari syntax / source code diatas adalah seperti berikut ini:<br>
 
 ![picture -new](pict/pict-10.png)
+
+# Pertemuan 6 - Lab 1.5
+
+1. String format
+String formatting atau pemformatan string memungkinkan kita menyuntikkan item kedalam string daripada kita mencoba menggabungkan string menggunakan koma atau string concatenation.<br>
+
+> Penggunaan pada source yang di berikan Dosen sebagai berikut :
+
+![picture -new](pict/pict-11.png)
+
+> Tugas yang di berikan oleh Dosen adalah seperti gambar dibawah ini: 
+
+![picture -new](pict/pict-12.png)
+
+Pada syntax / source code string format 1 akan menampilkan output berupa 2 outputan.
+Yang pertama (sebelah kiri) akan menampilkan angka urut dari angka 0 hingga 10, sedangkan sebelah kanan akan menampilkan Oprasi Aritmatika Pangkat.
+
+> Dengan ketentuan sebagau berikut, oprasi pangkat dengan angka kiri sebagai pokok (Rumus : ** [Bintang dua])
+Hasil dari syntax tersebut adalah 10 pangkat 0, hingga 10 pangkat 10. Dengan output sebagai berikut :
+
+![picture -new](pict/pict-13.png)
