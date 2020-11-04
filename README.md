@@ -98,6 +98,10 @@ Kali ini akan menyelesaikan tugas Lab 2 dari Dosen, yaitu Konversi Nilai Variabl
 
 ![picture -new](pict/pict-15.png)
 
+> Hasil dari source / code diatas :
+
+![picture -new](pict/pict-16.png)
+
 Sekian hanya ini yang dapat saya sampaikan, semoga bermanfaat.
 
 #TERIMAKASIH
