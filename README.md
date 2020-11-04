@@ -33,15 +33,27 @@ Pada lab 1 pertemuan ke 6, Saya di beri tugas oleh Dosen  mempelajari Operator A
 > Pendeklarasian beberapa variable berserta nilainya.
 
 ![picture -new](pict/pict-4.png)
-> Menampilkan hasil setiap variable tiap-tiap variable.
+
+> Menampilkan hasil setiap variable tiap-tiap variable.<br>
+
 ![picture -new](pict/pict-5.png)
-> Menampilkan hasil variable dari tiap-tiap variable menggunakan pemisah , (koma).
+
+> Menampilkan hasil variable dari tiap-tiap variable menggunakan pemisah , (koma).<br>
+
 ![picture -new](pict/pict-6.png)
-> Menampilkan hasil variable dari tiap-tiap variable tanpa menggunakan pemisah.
+
+> Menampilkan hasil variable dari tiap-tiap variable tanpa menggunakan pemisah.<br>
+
 ![picture -new](pict/pict-7.png)
-> Menampilkan hasil variable dari tiap-tiap variable dengan menggunakan pemisah : (titik dua).
+
+> Menampilkan hasil variable dari tiap-tiap variable dengan menggunakan pemisah : (titik dua).<br>
+
 ![picture -new](pict/pict-8.png)
->Menampilkan hasil variable dari tiap-tiap variable dengan menggunakan pemisah ----.
+
+>Menampilkan hasil variable dari tiap-tiap variable dengan menggunakan pemisah ----.<br>
+
 ![picture -new](pict/pict-9.png)
->Hasil dari syntax / source code diatas adalah seperti berikut ini:
+
+>Hasil dari syntax / source code diatas adalah seperti berikut ini:<br>
+
 ![picture -new](pict/pict-10.png)
