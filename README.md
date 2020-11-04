@@ -78,3 +78,16 @@ Yang pertama (sebelah kiri) akan menampilkan angka urut dari angka 0 hingga 10, 
 Hasil dari syntax tersebut adalah 10 pangkat 0, hingga 10 pangkat 10. Dengan output sebagai berikut :
 
 ![picture -new](pict/pict-13.png)
+
+2. String Format 2
+   Pada syntax / source code string format 2 akan menampilkan output berupa 2 output'an juga (Seoerti string format 1, yaitu kanan dan kiri)
+    Dengan ketentuan sebagai berikut :
+
+> Alignment, padding, dan precesion dengan .format() dalam kurung kurawal kita dapat menetapkan panjang bidang, rata kanan/kiri, parameter pembulatan dan banyak lagi.
+
+>Secara default, .format() menggunakan rata text kiri, angka ke kanan. <,^, atau > untuk perataan kiri, tengah , atau kanan.
+
+Hasil string format 2 adalah :
+
+![picture -new](pict/pict-14.png)
+
