@@ -7,3 +7,7 @@ NIM     : 312010188
 
 Kelas   : TI.20. A.1
 
+# Pertemuan 6 - lab 1
+Pada lab 1 pertemuan ke 6, Saya di beri tugas oleh Dosen  mempelajari Operator Aritmatika menggunakan bahasa pemograman python. <br>
+
+![Picture - New](pict/gambar-1.PNG)
