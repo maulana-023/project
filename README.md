@@ -28,3 +28,20 @@ Pada lab 1 pertemuan ke 6, Saya di beri tugas oleh Dosen  mempelajari Operator A
 
 ![picture -new](pict/pict-3.png)
 
+* Pengertian separaktor Sepaktor adalah pemisah yang berfungsi sebagai tanda pemisah antar objek yang dicetak. Defaultnya adalah tanda spasi.
+
+> Pendeklarasian beberapa variable berserta nilainya.
+
+![picture -new](pict/pict-4.png)
+> Menampilkan hasil setiap variable tiap-tiap variable.
+![picture -new](pict/pict-5.png)
+> Menampilkan hasil variable dari tiap-tiap variable menggunakan pemisah , (koma).
+![picture -new](pict/pict-6.png)
+> Menampilkan hasil variable dari tiap-tiap variable tanpa menggunakan pemisah.
+![picture -new](pict/pict-7.png)
+> Menampilkan hasil variable dari tiap-tiap variable dengan menggunakan pemisah : (titik dua).
+![picture -new](pict/pict-8.png)
+>Menampilkan hasil variable dari tiap-tiap variable dengan menggunakan pemisah ----.
+![picture -new](pict/pict-9.png)
+>Hasil dari syntax / source code diatas adalah seperti berikut ini:
+![picture -new](pict/pict-10.png)
