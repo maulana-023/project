@@ -7,7 +7,7 @@ NIM     : 312010188
 
 Kelas   : TI.20. A.1
 
-# Pertemuan 6 - lab 1
+## Pertemuan 6 - lab 1
 Pada lab 1 pertemuan ke 6, Saya di beri tugas oleh Dosen  mempelajari Operator Aritmatika menggunakan bahasa pemograman python. <br>
 
 ![Picture - New](pict/gambar-1.PNG)
@@ -58,7 +58,7 @@ Pada lab 1 pertemuan ke 6, Saya di beri tugas oleh Dosen  mempelajari Operator A
 
 ![picture -new](pict/pict-10.png)
 
-# Pertemuan 6 - Lab 1.5
+## Pertemuan 6 - Lab 1.5
 
 1. String format
 String formatting atau pemformatan string memungkinkan kita menyuntikkan item kedalam string daripada kita mencoba menggabungkan string menggunakan koma atau string concatenation.<br>
@@ -91,3 +91,13 @@ Hasil string format 2 adalah :
 
 ![picture -new](pict/pict-14.png)
 
+## Pertemuan 6 - Lab 2
+
+* Konversi Nilai Variable Untuk pembahasan terakhir. 
+Kali ini akan menyelesaikan tugas Lab 2 dari Dosen, yaitu Konversi Nilai Variable. Seperti gambar dibawah ini:
+
+![picture -new](pict/pict-15.png)
+
+Sekian hanya ini yang dapat saya sampaikan, semoga bermanfaat.
+
+#TERIMAKASIH
