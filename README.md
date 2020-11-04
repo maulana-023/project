@@ -98,9 +98,17 @@ Kali ini akan menyelesaikan tugas Lab 2 dari Dosen, yaitu Konversi Nilai Variabl
 
 ![picture -new](pict/pict-15.png)
 
-> Hasil dari source / code diatas :
+Untuk membuat inputan berupa interger/angka harus ditambahkan syntax int() pada format input(). Yang seharusnya ditulis adalah :
 
 ![picture -new](pict/pict-16.png)
+
+maka tulis seperti ini :
+
+![picture -new](pict/pict-17.png)
+
+> setelah run file diatas, maka akan muncul seperti gambar dibawah ini :
+
+![picture -new](pict/pict-18.png)
 
 Sekian hanya ini yang dapat saya sampaikan, semoga bermanfaat.
 
